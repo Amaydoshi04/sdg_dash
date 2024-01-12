@@ -1,9 +1,9 @@
 # Set Working Directory
-import os
+# import os
 
-os.getcwd()
-os.chdir(r"D:\Semester 4\03 Machine Learning\02 Labs Tutorials\Self-Learning-Expt-1")
-os.getcwd()
+# os.getcwd()
+# os.chdir(r"D:\Semester 4\03 Machine Learning\02 Labs Tutorials\Self-Learning-Expt-1")
+# os.getcwd()
 
 # Import Required Libraries
 import numpy as np
